@@ -10,7 +10,9 @@ export const Strings = {
   register: 'Register',
   login: 'login',
   continue: 'continute',
-  verification: 'verification'
+  continueWith: 'Or Continue with',
+  verification: 'verification',
+  haveAlreadyAccount: 'Already have an account?'
 }
 
 export default Strings;
