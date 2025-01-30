@@ -12,7 +12,9 @@ export const Strings = {
   continue: 'continute',
   continueWith: 'Or Continue with',
   verification: 'verification',
-  haveAlreadyAccount: 'Already have an account?'
+  haveAlreadyAccount: 'Already have an account?',
+  getcode: "Didn't get a code?",
+  resend: 'resend',
 }
 
 export default Strings;
